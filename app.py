@@ -7,6 +7,7 @@ def menu():
         print("2 - Listar tarefas")
         print("3 - Concluir tarefa")
         print("4 - Remover tarefa")
+        print("5 - Atualização para PR")
         print("0 - Sair")
 
         opcao = input("Escolha: ")
