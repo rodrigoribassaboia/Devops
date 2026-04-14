@@ -36,7 +36,7 @@ def menu():
         else:
             print("Opção inválida!")
 
-print("CI/CD funcionando!")
+        print("CI/CD funcionando!")
 
 if __name__ == "__main__":
     menu()
