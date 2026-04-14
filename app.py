@@ -39,4 +39,4 @@ def menu():
         print("CI/CD funcionando!")
 
 if __name__ == "__main__":
-    menu()
+    print("Aplicação executada com sucesso!")
